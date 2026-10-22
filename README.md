@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=camilash&color=FF8FC9&style=for-the-badge&label=🌸+visitas" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=camiKiss&color=FF8FC9&style=for-the-badge&label=🌸+visitas" alt="Visitas" />
   <img src="https://img.shields.io/badge/🎂-19-FF8FC9?style=for-the-badge" alt="Edad" />
   <img src="https://img.shields.io/badge/🇯🇵-Japón-FFB6C1?style=for-the-badge" alt="País" />
 </p>
@@ -96,7 +96,7 @@
 <h2 align="center"><font color="#FF8FC9">統計 · números</font></h2>
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=camilash&show_icons=true&count_private=true&hide_border=true&title_color=FF8FC9&icon_color=FFB6C1&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Stats" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=CamiKiss&show_icons=true&count_private=true&hide_border=true&title_color=FF8FC9&icon_color=FFB6C1&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Stats" />
   <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=camilash&hide_border=true&background=0d1117&stroke=FF8FC9&ring=FF8FC9&fire=FFB6C1&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="Streak" />
 </p>
 
