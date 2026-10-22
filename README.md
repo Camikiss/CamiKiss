@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=camiKiss&color=FF8FC9&style=for-the-badge&label=🌸+visitas" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=CamiKiss&color=FF8FC9&style=for-the-badge&label=🌸+visitas" alt="Visitas" />
   <img src="https://img.shields.io/badge/🎂-19-FF8FC9?style=for-the-badge" alt="Edad" />
   <img src="https://img.shields.io/badge/🇯🇵-Japón-FFB6C1?style=for-the-badge" alt="País" />
 </p>
